@@ -1,0 +1,163 @@
+Exact Audio Copy V0.99 prebeta 4 from 23. January 2008
+
+EAC extraction logfile from 30. April 2010, 23:18
+
+Anh Tho / Nguoi Oi Hay Ve
+
+Used drive  : TSSTcorpDVD-ROM SH-D162D   Adapter: 0  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 6
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 1024 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:\Program Files\Exact Audio Copy\Flac\flac.exe
+Additional command line options : -8 -V -T "ARTIST=%a" -T "TITLE=%t" -T "ALBUM=%g" -T "DATE=%y" -T "TRACKNUMBER=%n" -T "TOTALTRACKS=%x" -T "GENRE=%m" -T "ALBUM ARTIST=%v" -T "ALBUMARTIST=%v" -T "COMMENT=NXG | EAC V0.99 prebeta 4, Secure Mode, Test & Copy, A
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  5:00.18 |         0    |    22517   
+        2  |  5:00.18 |  4:09.72 |     22518    |    41264   
+        3  |  9:10.15 |  4:22.02 |     41265    |    60916   
+        4  | 13:32.17 |  6:06.02 |     60917    |    88368   
+        5  | 19:38.19 |  4:06.59 |     88369    |   106877   
+        6  | 23:45.03 |  4:46.15 |    106878    |   128342   
+        7  | 28:31.18 |  4:30.59 |    128343    |   148651   
+        8  | 33:02.02 |  6:15.27 |    148652    |   176803   
+        9  | 39:17.29 |  5:57.54 |    176804    |   203632   
+       10  | 45:15.08 |  4:21.12 |    203633    |   223219   
+
+
+Track  1
+
+     Filename H:\Perfect Lossless\EAC Files\Anh Tho - Nguoi Oi Hay Ve (2009) [FLAC]\01 - Mua Chim En Bay.wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 97.9 %
+     Track quality 100.0 %
+     Test CRC AEDC5A05
+     Copy CRC AEDC5A05
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  2
+
+     Filename H:\Perfect Lossless\EAC Files\Anh Tho - Nguoi Oi Hay Ve (2009) [FLAC]\02 - Chiec Khan Roi.wav
+
+     Peak level 97.8 %
+     Track quality 100.0 %
+     Test CRC EB36045E
+     Copy CRC EB36045E
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  3
+
+     Filename H:\Perfect Lossless\EAC Files\Anh Tho - Nguoi Oi Hay Ve (2009) [FLAC]\03 - Tinh Ca Mua Xuan.wav
+
+     Peak level 95.3 %
+     Track quality 100.0 %
+     Test CRC 77E81CB5
+     Copy CRC 77E81CB5
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  4
+
+     Filename H:\Perfect Lossless\EAC Files\Anh Tho - Nguoi Oi Hay Ve (2009) [FLAC]\04 - Nang Am Que Huong.wav
+
+     Peak level 98.0 %
+     Track quality 100.0 %
+     Test CRC 3700DC67
+     Copy CRC 3700DC67
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  5
+
+     Filename H:\Perfect Lossless\EAC Files\Anh Tho - Nguoi Oi Hay Ve (2009) [FLAC]\05 - Hat Mua Mua Xuan.wav
+
+     Peak level 97.9 %
+     Track quality 100.0 %
+     Test CRC 6E892D53
+     Copy CRC 6E892D53
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  6
+
+     Filename H:\Perfect Lossless\EAC Files\Anh Tho - Nguoi Oi Hay Ve (2009) [FLAC]\06 - Chiec Dan Moi.wav
+
+     Peak level 96.6 %
+     Track quality 100.0 %
+     Test CRC 0F98AF58
+     Copy CRC 0F98AF58
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  7
+
+     Filename H:\Perfect Lossless\EAC Files\Anh Tho - Nguoi Oi Hay Ve (2009) [FLAC]\07 - Di Tim Cau Hat Ly Thuong Nhau.wav
+
+     Peak level 96.7 %
+     Track quality 100.0 %
+     Test CRC 5E9B1319
+     Copy CRC 5E9B1319
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  8
+
+     Filename H:\Perfect Lossless\EAC Files\Anh Tho - Nguoi Oi Hay Ve (2009) [FLAC]\08 - Tinh Ca Tay Bac.wav
+
+     Peak level 98.6 %
+     Track quality 100.0 %
+     Test CRC 60A2B325
+     Copy CRC 60A2B325
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  9
+
+     Filename H:\Perfect Lossless\EAC Files\Anh Tho - Nguoi Oi Hay Ve (2009) [FLAC]\09 - Nguoi Oi Hay Ve.wav
+
+     Peak level 98.7 %
+     Track quality 100.0 %
+     Test CRC 290C2C5D
+     Copy CRC 290C2C5D
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 10
+
+     Filename H:\Perfect Lossless\EAC Files\Anh Tho - Nguoi Oi Hay Ve (2009) [FLAC]\10 - Tau Anh Qua Nui.wav
+
+     Peak level 98.8 %
+     Track quality 100.0 %
+     Test CRC 6AA32629
+     Copy CRC 6AA32629
+     Track not present in AccurateRip database
+     Copy OK
+
+
+None of the tracks are present in the AccurateRip database
+
+No errors occurred
+
+End of status report
